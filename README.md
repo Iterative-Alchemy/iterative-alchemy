@@ -1,2 +1,4 @@
 # iterative-alchemy
-Making magic step by step.
+Making magic one block at a time.
+
+
