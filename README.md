@@ -1,4 +1,4 @@
 # iterative-alchemy
-Making magic one block at a time.
+Building the future one block at a time.
 
 
